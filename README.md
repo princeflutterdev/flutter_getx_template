@@ -430,4 +430,4 @@ Thanks to all the amazing contributors who have helped improve this project! ðŸ˜
 
 ## Support
 
-For support, email emadbeltaje@gmail.com or Facebook [Emad Beltaje](https://www.facebook.com/EmadBeltaje/).
+For support, email info@princeflutterdev.in or Facebook [Justin Prince](https://www.facebook.com/justin.raj.07/).
