@@ -424,9 +424,6 @@ GetBuilder<HomeController>(
 
 ## Thanks To Contributors 🧡
 
-[![Contributors](https://contrib.rocks/image?repo=EmadBeltaje/flutter_getx_template)](https://github.com/EmadBeltaje/flutter_getx_template/graphs/contributors)
-
-Thanks to all the amazing contributors who have helped improve this project! 😇
 
 ## Support
 
